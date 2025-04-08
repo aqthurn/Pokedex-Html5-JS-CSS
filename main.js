@@ -8,7 +8,7 @@ const limit = 5
 let offset = 0;
 
 
-const maxRecords = 720
+const maxRecords = 151
 
 
 
